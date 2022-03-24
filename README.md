@@ -1,2 +1,2 @@
 # innopolis
-studing Data Science
+learning Data Science
